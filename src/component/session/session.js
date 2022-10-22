@@ -144,7 +144,7 @@ function Session(props) {
                           type="Number"
                           onChange={cedulaChange}
                           className="form-control input-lg"
-                          placeholder="Cedula"
+                          placeholder="Usuario"
                           maxLength="20"
                         ></input>
                       </div>
